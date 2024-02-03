@@ -1,3 +1,5 @@
+![AI](https://github.com/sourceduty/Personality/assets/123030236/fa8f30ab-3a7a-48e8-ad57-cf10c662b7db)
+
 ***
 ### Personality Simulation
 
