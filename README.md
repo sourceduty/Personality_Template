@@ -2,5 +2,10 @@
 
 [Personality Template](https://chat.openai.com/g/g-SjVEuD3eZ-personality-template)  assists users in creating a comprehensive digital profile by engaging them in thoughtful conversation about their personal values, beliefs, interests, lifestyle choices, and experiences. It facilitates a deeper understanding of the user's identity and compiles the discussions into a cohesive report. This process is designed to be empathetic and respectful, providing a comfortable and private environment for self-reflection. At the end of the conversation, it offers a structured, printable report that summarizes the user’s personal identity.
 
+#
+### Related Links
+
+[Opinionated Analysis Report](https://github.com/sourceduty/Opinionated_Analysis_Report)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
