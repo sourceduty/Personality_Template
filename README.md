@@ -6,7 +6,7 @@
 ### Related Links
 
 [Opinionated Analysis Report](https://github.com/sourceduty/Opinionated_Analysis_Report)
-<b>
+<br>
 [National Template](https://github.com/sourceduty/National_Template)
 <br>
 [UN Simulator](https://github.com/sourceduty/UN_Simulator)
